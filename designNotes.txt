@@ -1,0 +1,161 @@
+Navigation
+-observation
+-strategic
+-navigation
+
+player should always know where to go
+-use visual language
+-use of lighting / color / animation
+
+sometimes good to throw in a little confusion
+
+good level design does not rely on words to tell the story
+
+https://youtu.be/bswgQg-F3QE (beginners guide)
+
+https://youtu.be/aOPRkpElDpo (the witness)
+
+https://youtu.be/e30a1DpKWvg (that dragon, cancer)
+
+https://www.youtube.com/watch?v=BCZlQVXk4fE (Depression Quest)
+
+https://www.youtube.com/watch?v=mzGGPqtNZ_4 (Waking - Demo)
+
+Use contrast to bring out important parts of room
+or de-emphesis parts that don't need focus
+
+Repetition is useful. Repeating colors throughout a room may make disparate elements work
+
+Interior design is bare bone basics / fundamentals for environment artist
+
+Interior design deals with space around you in all directions. STUDY IT
+
+Arrange things in a way so people understand 
+
+Enrichment is the core idea of being inside a space
+
+Expression is the mood within a space, tone, story
+
+All principles must exist together
+
+Breakdown
+-Order: we need to arrange things so user feels at ease
+--pattern: Color, material, (hierarchy), textures
+--Orientation: mental images of each part and then piece together
+---identity, structure, meaning
+---identity: create iconic element that people can come back to and remember
+---structure: pattern within spaces that are memorable.
+---Meaning: Personal meaning towards that space b/c it means something to you
+
+Order - how to define space
+Enclosure: emotions, body, spirit is like water. Enclosure is like the glass
+Emotions flow out in front of us
+Hallway our emotions poor forwars and backwards.
+Corners let us back up and more enclosions
+
+Lack of repitition through a space can be discomforting and scary
+
+Noticing a certain pattern, or set of angles can help orientate
+
+Walls & floors is literal space
+What about implied space? Space within
+
+A lot in games artists focus on lighting for orientation, but that is just one tool for
+interior designers. May just be used to liven upt he space
+
+Space definition - literal & implied
+
+Enrichment - making it more interesting (movement or visual field)
+About the experience of looking at something
+Approachability. We like scenes with complexity in them
+At a certain point complexity does start to taper off.
+
+Spaces people appreciated the most were naturalistic 
+People like to break down the scenes into compartmental areas
+Techniques of complexity, coherence, mystery
+
+Complexity - we like to see things we can break down, compartmentalize. Animals
+love to break down patterns
+Legibility: Ability to break down a space into component parts and understand
+what is going on
+Coherence - appreciation for patterns in space and perceiving the pattern.
+Mystery - we want to investigate and move into. More enrchiched the space may be
+Approachability
+
+Universal Enrichment - can be detached from narrative & interior
+-manipulation of enclosing space - can make it a more enriching area
+-slight enrich, then learn to use larger versions
+
+More than just enterior design. Caves have similar patterns
+
+If a pattern becomes incoherent, it becomes uneasy.
+
+Surface articulation can lead a player through a space or prevent a hallway from seeming
+too long
+
+Surface articulation can have thickness and shape.
+Doesn't need to be man-made. Whether intended or not.
+
+Spatial Composition. - composing elements makes it easier to make sense of them
+Total chaos difficult to deal with. But very very little legitibility
+However if we create too much order, the space is not very enriched
+
+Enrichment can happen more than on visual field but on movement field.
+
+Can change up patterns by having multiple movement schemes within.
+
+Novelty - having something impactful and interesting and different from everything else
+Problem is if we use too much novelty at too high intensity. It's difficult for a user
+to notice everytime we use it.
+Makes us have to go too far for the user to appreciate it again.
+
+Hard to remember what our experience was if everything or nothing is memorable
+Gotta control it with little changes
+
+Tension - as we move if the space encloses around us that is interesting.
+Need to release tension either gradually or abruptly. Release of tension is enriching
+
+Expression - deal with toon / mode / narative of space
+
+Interior design is least effective with expression.
+
+Expression is more of a mindset. World Expression, Symbolism
+
+World Expression - Historical , cultural
+
+Historical - history of a space told through its visuals. Era
+Fictional spaces all have their own inherent history that can be expressed
+
+Using symbols to suggest a specific culture.
+Can be heavy handed and tacky but still a form of expression
+
+Or being stereotypical and cliche for other cultures
+
+Inhabitant Expression - anyone who lives inside of the space. May be living or squatting
+-Identity
+--Attitude
+--Sophistication
+--Self preservation
+
+Attitude is how friendly or unfriendly the things may be. Could be something they built
+or placed on the wall. Could be a sense of humor, and tell you about themselves.
+
+Sophistication appreciation for taste or expression
+
+Self Presentation - how much of the attitude do they want you to see. Or maybe
+
+Symbolism Expression
+-assending / descending
+-admittance / refusal
+
+Broader expression of story. Some users will not see or recognize it.
+
+Ideas of ascending / descending. Moving up is like a heavenly movement
+
+Admittance/refusal. When you want someone to go through a space show open doors, lots
+of light. Or doing the opposite
+
+https://www.youtube.com/watch?v=WWXsmnlmADc
+Next:
+Architecture
+City Planning

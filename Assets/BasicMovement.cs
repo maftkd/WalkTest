@@ -6,12 +6,15 @@ public class BasicMovement : MonoBehaviour
 {
 
     private Rigidbody _bod;
-    public float _baseSpeed = 10;
+    public float _baseSpeed;
+    public float _walkSpeed;
+    private float _curSpeed;
     private float _moveSpeed;
     // Start is called before the first frame update
     void Start()
     {
         _bod = transform.GetComponent<Rigidbody>();
+        _curSpeed = _baseSpeed;
     }
 
     // Update is called once per frame
@@ -36,8 +39,17 @@ public class BasicMovement : MonoBehaviour
             {
                 velocity += transform.right;
             }
+
+            if (Input.GetKey(KeyCode.LeftShift))
+            {
+                _curSpeed = _walkSpeed;
+            }
+            else
+            {
+                _curSpeed = _baseSpeed;
+            }
             velocity.Normalize();
-            _moveSpeed = Mathf.Max(0, _baseSpeed - _bod.velocity.sqrMagnitude);
+            _moveSpeed = Mathf.Max(0, _curSpeed - _bod.velocity.sqrMagnitude);
             _bod.AddForce(velocity * _moveSpeed);
         }
     }

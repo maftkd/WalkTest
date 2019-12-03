@@ -24,7 +24,7 @@ public class BasicLook : MonoBehaviour
             float ySlide = Input.GetAxis("Mouse Y");
 
             transform.Rotate(Vector3.up, xSlide * _sensitivity);
-            if (Input.GetKeyUp(KeyCode.Q) || Input.GetKeyUp(KeyCode.Escape))
+            if (Input.GetKeyUp(KeyCode.Q))
             {
                 _escapeMenu.ActivateMenu(true);
             }
